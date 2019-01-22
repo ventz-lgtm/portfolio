@@ -1,3 +1,5 @@
+[Back](https://dhog10.github.io/portfolio/)
+
 ## Unity
 
 I have worked on many Unity projects, unity is currently the engine I am most experienced with. I have worked on projects for university coursework and many more personal projects in my spare time. My experience in Unity has greatly improved my understanding of 3D mathematics and manipulation of objects in a 3D space, ability to develop gameplay mechanics such as player controllers, weapons, interactable and dynamic items such as doors, elevators and much more.
@@ -30,7 +32,9 @@ My player controller for this game features intuitive and easy movement, with su
 The enemies in Notwellit would not be able to enter light, which means the player would have to stay in the light to survive.
 
 ### Multiplayer Test
-Multiplayer test is a personal project I have recently been working on to improve my understanding of network structure used in Unity, and my ability to setup game mechanics such as weapons and player controllers which function over a network. This project was creating over a period of roughly a week. I also improved my understanding of animations, blend trees and IK techniques during working on this project.
+[Game Build (As of 22/01/2019)](https://github.com/dhog10/portfolio/blob/master/builds/MultiplayerTest.zip)
+
+Multiplayer test is a personal project I have recently been working on to improve my understanding of network structure used in Unity, and my ability to setup game mechanics such as weapons and player controllers which function over a network. This project (As of 22/01/2019) was created over a period of roughly 3 days. I also improved my understanding of animations, blend trees and IK techniques during working on this project.
 ![Multiplayer UI](images/mptest1.png)
 Custom multiplayer network UI
 <video width="480" height="320" controls="controls">
@@ -49,3 +53,7 @@ Supports first person aiming and also pistol hold types.
 ### Procedural terrain
 This personal project was sparked by my interest in procedural generation techniques. I am very interested in procedural content such as terrain and item scattering. This project helped me develop my understanding of procedural techniques such as perlin noise and fractal algorithms such as diamond square.
 
+### Space Multiplayer Game
+I started this personal project to practise Unity multiplayer integration, and to practise creating a spaceship player controller. This was different to my previous experience in creating player controllers for regular traversing human characters, I also gained some experience in shaders written in CG by attempting a shader which would display a ripple effect when a projectile collided with a ships shield. This shader used a list of positions and times to calculate the intensity of the ripple effect at certain locations.
+
+I unfortunately cannot currently provide the project source code, as some model files exceed 100MB (GitHub file size limit)
