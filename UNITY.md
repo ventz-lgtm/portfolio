@@ -11,6 +11,8 @@ Uniscention is a game I worked on during the first game jam of my second year in
   <source src="images/uniscention_player.mp4" type="video/mp4">
 </video>
 
+The player movement system in this game is very smooth, the player traverses adjacent to the face of the tower they are on, the player can also seamlessly move around faces by simply jumping around the cube or entering teleporters.
+
 ## Night in Notwellit
 Night in Notwellit is the second game I worked on for my University group project module. Again, this game was developed in four and a half days with a team of four designers and two programmers. For this game I took on the task of creating the player controller, interactable items, holdable items, inventory system, UI & crafting mechanics, procedural detail scattering, in engine setup of various prefabs.
 
