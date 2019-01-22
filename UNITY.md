@@ -31,6 +31,20 @@ The enemies in Notwellit would not be able to enter light, which means the playe
 
 ### Multiplayer Test
 Multiplayer test is a personal project I have recently been working on to improve my understanding of network structure used in Unity, and my ability to setup game mechanics such as weapons and player controllers which function over a network. This project was creating over a period of roughly a week. I also improved my understanding of animations, blend trees and IK techniques during working on this project.
+![Multiplayer UI](images/mptest1.png)
+Custom multiplayer network UI
+<video width="480" height="320" controls="controls">
+  <source src="images/mptest_shooting.mp4" type="video/mp4">
+</video>
+Player controller & weapons written from scratch, supports first and third person, includes weapon hold animations, sounds and particle effects.
+<video width="480" height="320" controls="controls">
+  <source src="images/mptest_client.mp4" type="video/mp4">
+</video>
+Clients and weapons synchronized over a network, player animations and weapon effects calculated per client locally, accurate bullet trace synchronization.
+<video width="480" height="320" controls="controls">
+  <source src="images/mptest_pistol.mp4" type="video/mp4">
+</video>
+Supports first person aiming and also pistol hold types.
 
 ### Procedural terrain
 This personal project was sparked by my interest in procedural generation techniques. I am very interested in procedural content such as terrain and item scattering. This project helped me develop my understanding of procedural techniques such as perlin noise and fractal algorithms such as diamond square.
