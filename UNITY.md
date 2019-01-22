@@ -32,7 +32,7 @@ The enemies in Notwellit would not be able to enter light, which means the playe
 ### Multiplayer Test
 [Game Build (As of 22/01/2019)](https://github.com/dhog10/portfolio/blob/master/builds/MultiplayerTest.zip)
 
-Multiplayer test is a personal project I have recently been working on to improve my understanding of network structure used in Unity, and my ability to setup game mechanics such as weapons and player controllers which function over a network. This project was creating over a period of roughly a week. I also improved my understanding of animations, blend trees and IK techniques during working on this project.
+Multiplayer test is a personal project I have recently been working on to improve my understanding of network structure used in Unity, and my ability to setup game mechanics such as weapons and player controllers which function over a network. This project was created over a period of roughly a week. I also improved my understanding of animations, blend trees and IK techniques during working on this project.
 ![Multiplayer UI](images/mptest1.png)
 Custom multiplayer network UI
 <video width="480" height="320" controls="controls">
