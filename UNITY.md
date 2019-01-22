@@ -7,6 +7,12 @@ Uniscention is a game I worked on during the first game jam of my second year in
 ![Uniscention Main Menu](images/uniscention_menu.jpg)
 ![Uniscention Character Selection](images/uniscention_menu2.png)
 
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 <video width="480" height="320" controls="controls">
   <source src="https://dhog10.github.io/portfolio/images/uniscention_player.mp4" type="video/mp4">
 </video>
