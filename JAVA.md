@@ -21,7 +21,7 @@ Demonstration of rigidbody simulation and collision detection between axis align
 ### Single Linked List
 My implementation of single linked lists for my AP&D Module.
 
-```Java
+```java
 package linkedList.list;
 
 import linkedList.node.SingleLinkNode;
