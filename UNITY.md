@@ -16,9 +16,11 @@ The player movement system in this game is very smooth, the player traverses adj
 Night in Notwellit is the second game I worked on for my University group project module. Again, this game was developed in four and a half days with a team of four designers and two programmers. For this game I took on the task of creating the player controller, interactable items, holdable items, inventory system, UI & crafting mechanics, procedural detail scattering, in engine setup of various prefabs, tooltips and objectives and enemy AI.
 ![Notwellit spawn](images/notwellit1.jpg)
 ![Notwellit Building](images/notwellit2.jpg)
+My player controller for this game features intuitive and easy movement, with suitable and comfortable camera angles.
 <video width="480" height="320" controls="controls">
   <source src="images/notwellit_player.mp4" type="video/mp4">
 </video>
+The enemies in Notwellit would not be able to enter light, which means the player would have to stay in the light to survive.
 <video width="480" height="320" controls="controls">
   <source src="images/notwellit_enemies.mp4" type="video/mp4">
 </video>
