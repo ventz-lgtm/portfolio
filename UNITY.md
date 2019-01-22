@@ -7,10 +7,7 @@ Uniscention is a game I worked on during the first game jam of my second year in
 ![Uniscention Main Menu](images/uniscention_menu.jpg)
 ![Uniscention Character Selection](images/uniscention_menu2.jpg)
 <video width="480" height="320" controls="controls">
-  <source src="images/notwellit_player.mp4" type="video/mp4">
-</video>
-<video width="480" height="320" controls="controls">
-  <source src="images/notwellit_enemies.mp4" type="video/mp4">
+  <source src="images/uniscention_player.mp4" type="video/mp4">
 </video>
 
 The player movement system in this game is very smooth, the player traverses adjacent to the face of the tower they are on, the player can also seamlessly move around faces by simply jumping around the cube or entering teleporters.
@@ -20,7 +17,10 @@ Night in Notwellit is the second game I worked on for my University group projec
 ![Notwellit spawn](images/notwellit1.jpg)
 ![Notwellit Building](images/notwellit2.png)
 <video width="480" height="320" controls="controls">
-  <source src="images/uniscention_player.mp4" type="video/mp4">
+  <source src="images/notwellit_player.mp4" type="video/mp4">
+</video>
+<video width="480" height="320" controls="controls">
+  <source src="images/notwellit_enemies.mp4" type="video/mp4">
 </video>
 
 ### Multiplayer Test
