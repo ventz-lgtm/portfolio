@@ -13,4 +13,4 @@ An enthusiastic and hard-working individual, with a passion for software enginee
 - FL Studio
 
 ### Projects & Work
-[Unity](https://dhog10.github.io/portfolio/UNITY)
+[![Unity](images/unity.png)](https://dhog10.github.io/portfolio/UNITY "Unity")
