@@ -15,3 +15,4 @@ An enthusiastic and hard-working individual, with a passion for software enginee
 ### Projects & Work
 [![Unity](images/unity.png)](https://dhog10.github.io/portfolio/UNITY "Unity")
 [![Java](images/java.png)](https://dhog10.github.io/portfolio/JAVA "Java")
+[![C++](images/c++.png)](https://dhog10.github.io/portfolio/CPLUSPLUS "C++")
