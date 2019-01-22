@@ -6,6 +6,7 @@ I have worked on many Unity projects, unity is currently the engine I am most ex
 Uniscention is a game I worked on during the first game jam of my second year in University. This game was developed in four and a half days in a team of four designers and two programmers. I took on the task of creating mechanics such as the player movement, camera movement, character selection, interactable items and 3D menu buttons. The feedback received from my peers and tutors was very positive for this project, and I am very pleased with the final product.
 ![Uniscention Main Menu](images/uniscention_menu.jpg)
 ![Uniscention Character Selection](images/uniscention_menu2.png)
+
 <video width="480" height="320" controls="controls">
   <source src="images/uniscention_player.mp4" type="video/mp4">
 </video>
