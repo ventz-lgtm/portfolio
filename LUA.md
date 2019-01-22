@@ -27,7 +27,7 @@ The asteroid belt (yellow ring) represents an area of space which should be fill
   <source src="images/expanse/asteroids.mp4" type="video/mp4">
 </video>
 Once the player enters a region, I procedurally scatter the contents of that region in the area near the player. In this case that region is filled with asteroids, the scattering is consistant for each unique location as I use a seed based on the sector coordinates to populate the area.
-![Planets](images/expanse/procedural_planets.jpg)
+![Planets](images/expanse/planets.jpg)
 To populate the universe with diverse content, I created procedural planets. These planets are generated using 3D simplex noise, terrain offset and planet textures are generated procedurally at runtime, and applied to a generated mesh. Each planet type can be configured by the administrator, the result is diverse and fairly realistic looking procedural planets!
 ![Tasks](images/expanse/tasks.png)
 The Lua instance is single threaded, meaning I must use coroutines to generate the planet mesh and textures asynchronously to not freeze the game.
