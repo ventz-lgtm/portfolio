@@ -15,7 +15,7 @@ For this assignment I was tasked to complete the implementation of skeleton code
 Demonstration of different rasterization methods in action.
 
 ### TheGame console game
-[Source] (https://github.com/dhog10/TheGameRework)
+[Source](https://github.com/dhog10/TheGameRework)
 
 This project is an interactive console version of the board game "The Game". The game involves players trying to reach a score as close to 0 as possible. My implementation supports multiple human players, and AI players. This was my first C++ project and I developed my basic ability in the language significantly during this project.
 
