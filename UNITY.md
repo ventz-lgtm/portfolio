@@ -36,7 +36,7 @@ Custom multiplayer network UI
 <video width="480" height="320" controls="controls">
   <source src="images/mptest_shooting.mp4" type="video/mp4">
 </video>
-Player controller & weapons written from scratch, supports first and third person, includes weapon hold animations, sounds and particle effects.
+Player controller & weapons written from scratch, supports first and third person, includes weapon hold animations, sounds and particle effects. Player traversal animations synchronized fairly well to footstep movements, movement appears in sync with footstep speed.
 <video width="480" height="320" controls="controls">
   <source src="images/mptest_client.mp4" type="video/mp4">
 </video>
