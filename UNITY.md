@@ -7,6 +7,10 @@ Uniscention is a game I worked on during the first game jam of my second year in
 ![Uniscention Main Menu](images/uniscention_menu.jpg)
 ![Uniscention Character Selection](images/uniscention_menu2.png)
 
+<video width="480" height="320" controls="controls">
+  <source src="https://dhog10.github.io/portfolio/images/uniscention_player.mp4" type="video/mp4">
+</video>
+
 ## Night in Notwellit
 Night in Notwellit is the second game I worked on for my University group project module. Again, this game was developed in four and a half days with a team of four designers and two programmers. For this game I took on the task of creating the player controller, interactable items, holdable items, inventory system, UI & crafting mechanics, procedural detail scattering, in engine setup of various prefabs.
 
