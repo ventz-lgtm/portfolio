@@ -52,6 +52,6 @@ Supports first person aiming and also pistol hold types.
 This personal project was sparked by my interest in procedural generation techniques. I am very interested in procedural content such as terrain and item scattering. This project helped me develop my understanding of procedural techniques such as perlin noise and fractal algorithms such as diamond square.
 
 ### Space Multiplayer Game
-[Source](https://github.com/dhog10/UnitySpaceMultiplayerGame)
-
 I started this personal project to practise Unity multiplayer integration, and to practise creating a spaceship player controller. This was different to my previous experience in creating player controllers for regular traversing human characters, I also gained some experience in shaders written in CG by attempting a shader which would display a ripple effect when a projectile collided with a ships shield. This shader used a list of positions and times to calculate the intensity of the ripple effect at certain locations.
+
+I unfortunately cannot currently provide the project source code, as some model files exceed 100MB (GitHub file size limit)
