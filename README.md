@@ -18,3 +18,5 @@ An enthusiastic and hard-working individual, with a passion for software enginee
 [![Java](images/java.png)](https://dhog10.github.io/portfolio/JAVA "Java")
 
 [![C++](images/c++.png)](https://dhog10.github.io/portfolio/CPLUSPLUS "C++")
+
+[![Lua](images/lua.png)](https://dhog10.github.io/portfolio/LUA "Lua")
