@@ -31,4 +31,3 @@ Once the player enters a region, I procedurally scatter the contents of that reg
 To populate the universe with diverse content, I created procedural planets. These planets are generated using 3D simplex noise, terrain offset and planet textures are generated procedurally at runtime, and applied to a generated mesh. Each planet type can be configured by the administrator, the result is diverse and fairly realistic looking procedural planets!
 ![Tasks](images/expanse/tasks.png)
 The Lua instance is single threaded, meaning I must use coroutines to generate the planet mesh and textures asynchronously to not freeze the game.
-[A forum post on my forum going to more detail on procedural planets](https://www.civilgamers.com/forum/m/18343296/viewthread/32360685-evolution-planets)
