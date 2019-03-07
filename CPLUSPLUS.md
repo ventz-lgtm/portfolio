@@ -21,3 +21,17 @@ This project is an interactive console version of the board game "The Game". The
 
 ![TheGame](images/thegame.png)
 TheGame during gameplay.
+
+### DX11 Render Engine
+[Source](https://github.com/dhog10/Yr2_DX11Assignment)
+
+This project was a second year university assignment in which I was tasked to implement a basic render engine and render pipeline using DX11. The project includes implementations for dynamic object management, transform inheritance, model caching, procedural city layout generation and a DX11 render pipeline.
+
+![TheGame](images/dx11renderengine.png)
+
+### Unreal AI Vehicle Project
+[Source](https://github.com/dhog10/Yr2VehicleProject)
+
+This project is an AI vehicle chase game created in unreal engine. Most of the implementation for this games systems was done in C++ with an exception for the AI behaviour trees implemented using blueprints.
+
+![TheGame](images/yr2vehicleproject.png)
